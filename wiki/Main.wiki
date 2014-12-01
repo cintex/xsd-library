@@ -1,10 +1,7 @@
+= Для чего это делалось =
 
-= Introduction =
+Библиотека содержит классы основных объектов схемы xml (XML Schema Definition).
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Схему можно загрузить и в дальнейшем использовать в приложении для:
+*создании элементов управления.
+*определять элементы xsd по существующим узлам и получать аннотацию по нему.
